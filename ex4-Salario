@@ -2,6 +2,7 @@
 # Total de Vendas = 1000 < v ≤ 5000 -> Premio = 500,00
 # Total de Vendas = 5000 < v ≤ 7500 -> Premio = 700,00
 # Total de Vendas = v > 7500 -> Premio = 1000,00
+# O programa deve calcular e informar o salario final do vendedor e qual foi o prêmio recebido.
 
 s =float(input("Digite o salário fixo: "))
 v =  float(input("Digite o valor total de vendas efetuadas no mês: "))
